@@ -25,8 +25,8 @@ This is my first Frontend Mentor project.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Dmino228/recipe-page-frontendmentor](https://github.com/Dmino228/recipe-page-frontendmentor)
+- Live Site URL: [https://recipe-page-frontendmentor-sage.vercel.app](https://recipe-page-frontendmentor-sage.vercel.app)
 
 ## My process
 
